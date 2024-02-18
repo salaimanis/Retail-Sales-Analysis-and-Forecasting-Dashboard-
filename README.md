@@ -1,4 +1,11 @@
-# Retail Sales Analysis and Forecasting Dashboard
-Objective: Develop a dashboard using PowerBI/Tableau to analyze retail sales data, forecast future sales, and identify trends.
-Will update the every day progress here! 
-Working in Progress..
+## Retail Sales Analysis and Forecasting Dashboard
+
+Objective: Develop an interactive dashboard using Power BI/Tableau to:
+
+Analyze retail sales data
+Forecast future sales trends
+Identify key insights and patterns
+Progress Updates:
+
+[2024-02-18]: Project initiated. Gathering and exploring data sources.
+Stay tuned for further updates!
