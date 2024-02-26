@@ -21,4 +21,5 @@ Develop an interactive dashboard using Power BI/Tableau to:
 ## Progress Updates:
 - [2024-02-18]: Project initiated. Gathering and exploring data sources.
 - [2024-02-20]: Found some real Amazon sales data from a random website in CSV format and performed essential data cleaning functions using the Python Pandas library.
+- [2024-02-26]: Working with SQL database.
 - Stay tuned for further updates!
